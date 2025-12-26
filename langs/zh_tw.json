@@ -1681,7 +1681,7 @@
   "config.lotrextended.makeMetalDoorsRequirePower": "使Extended金屬門還有地板門有能量可以打開",
   "config.lotrextended.middleEarthSpawnProtectionRadius": "中土大陸生成半徑伺服器保護",
   "config.lotrextended.npcGlobalSpawnDampingCoefficient": "減少全域npc 生成比率, 數字越低, 生成越少. 這是一個線性設定, (1.0 是預設 renewed 生成比率)",
-  "config.lotrextended.overworldSpawnProtectionRadius": 主世界生成半徑伺服器保護 (允許比原版保護範圍大)",
+  "config.lotrextended.overworldSpawnProtectionRadius": "主世界生成半徑伺服器保護 (允許比原版保護範圍大)",
   "config.lotrextended.structureBlockOutlineDistance": "更改結構方塊輪廓顯示的距離.",
   "container.lotr.dol_guldur_crafting": "多爾哥多合成",
   "container.lotr.half_troll_crafting": "半食人妖合成",

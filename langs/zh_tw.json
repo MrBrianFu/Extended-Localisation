@@ -902,7 +902,7 @@
   "block.lotrextended.black_fur_bundle": "黑色毛皮捆",
   "block.lotrextended.black_fur_carpet": "黑色毛皮地毯",
   "block.lotrextended.black_matted_fur": "黑色毛皮塊",
-  "block.lotrextended.black_matted_fur_slab": 黑色毛皮塊半磚",
+  "block.lotrextended.black_matted_fur_slab": "黑色毛皮塊半磚",
   "block.lotrextended.black_matted_fur_stairs": "黑色毛皮塊階梯",
   "block.lotrextended.black_matted_fur_wall": "黑色毛皮塊牆",
   "block.lotrextended.black_uruk_steel_block": "黑色強獸人鋼塊",
@@ -2236,7 +2236,7 @@
   "gui.lotrextended.menu.equipment": "裝備",
   "gui.lotrextended.menu.farmhand": "農工",
   "gui.lotrextended.menu.fellowships": "遠征隊",
-  "gui.lotrextended.menu.overview": "總攬"
+  "gui.lotrextended.menu.overview": "總攬",
   "gui.lotrextended.menu.settings": "選項",
   "gui.lotrextended.menu.titles": "頭銜",
   "gui.lotrextended.reforge_books.artisan": "工具",
@@ -2339,7 +2339,7 @@
   "gui.lotrextended.settings.newweather.setting": "中土大陸天氣: ",
   "gui.lotrextended.settings.northernlights.setting": "北方亮光/極光: ",
   "gui.lotrextended.settings.orcwomen.setting": "女獸人Alex模式: ",
-  "gui.lotrextended.settings.pathnav.setting": "Path Navigation: "
+  "gui.lotrextended.settings.pathnav.setting": "路經導航: ",
   "gui.lotrextended.settings.plantparticles.setting": "植物粒子: %s",
   "gui.lotrextended.settings.rainmist.setting": "霧雨: ",
   "gui.lotrextended.settings.rankGender.setting": "女性頭銜優先: ",
@@ -2841,7 +2841,7 @@
   "subtitles.lotrextended.entity.wight.death": "古墓屍妖死亡",
   "subtitles.lotrextended.entity.wight.spawn": "古墓屍妖生成",
   "subtitles.lotrextended.event.trade": "硬幣聲",
-  "subtitles.lotrextended.item.horn_blow": "吹號角"
+  "subtitles.lotrextended.item.horn_blow": "吹號角",
   "waypoint.lotrextended.uruk_highlands": "強獸人高地",
   "waypoint.lotrextended.uruk_highlands.lore": "這片土地曾是洛汗的山脈山麓，但如今已被白手的爪牙燒毀而變的荒涼."
 }
